@@ -28,6 +28,7 @@
 <a href="mailto:copyart.@mail.ru">
 <img class="portal-menu-logo__logo__img" src="https://img.imgsmail.ru/static.promo/logo/logo.svg" width="auto" height="28">
 </a>
+  
 <h2><h2>
+  
 ![](https://komarev.com/ghpvc/?username=Agurchkova)
-
