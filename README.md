@@ -1,5 +1,7 @@
-### Hi there, I`m Lena 👋
-I'm a beginner frontend developer.
+<h1>𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈`𝐦 𝐋𝐞𝐧𝐚 👋</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+beginner+frontend+developer" alt="Typing SVG" /></a>
+ 
 <!--
 **Agurchkova/Agurchkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
