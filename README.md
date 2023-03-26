@@ -1,6 +1,6 @@
 <h1>𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈`𝐦 𝐋𝐞𝐧𝐚 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+beginner+frontend+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=beginner+frontend+developer" alt="Typing SVG" /></a>
 
 <h2>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗿𝗲𝗮𝗸𝘀</h2>
 
