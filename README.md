@@ -22,7 +22,8 @@
 
 <h2>✉️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀:</h2>
 <a href="https://t.me/Agurchkova" rel="nofollow"><img src="https://camo.githubusercontent.com/f3c6d70a52bc503178d1b59f4802dd20260f71aea233c0f97a70bee4d8fcc23b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545343f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://e.mail.ru/copyart" rel="nofollow">
+<a href="https://e.mail.ru/copyart@mail.ru" rel="nofollow">
+<a href="mailto:copyart.@mail.ru">
 <img class="portal-menu-logo__logo__img" src="https://img.imgsmail.ru/static.promo/logo/logo.svg" width="auto" height="28">
-<a href="https://e.mail.ru/copyart" rel="nofollow">
+</a>
 
