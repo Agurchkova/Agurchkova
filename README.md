@@ -1,5 +1,5 @@
 ### Hi there, I`m Lena 👋
-
+I'm a beginner frontend developer.
 <!--
 **Agurchkova/Agurchkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
