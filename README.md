@@ -23,10 +23,10 @@
 <img src="https://camo.githubusercontent.com/5df4d52da48880da0c87d3f4d7e50c9191308fe31b6c96e30bc45d7a2afc943f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d46323445314526636f6c6f723d344534453445" alt="Figma home page" data-canonical-src="https://img.shields.io/badge/Figma-informational?style=flat&amp;logo=figma&amp;logoColor=white&amp;labelColor=F24E1E&amp;color=4E4E4E" style="max-width: 100%;"></p>
 
 <h2>✉️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀:</h2>
-<a href="https://t.me/Agurchkova" rel="nofollow"><img src="https://camo.githubusercontent.com/f3c6d70a52bc503178d1b59f4802dd20260f71aea233c0f97a70bee4d8fcc23b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545343f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://t.me/Agurchkova" rel="nofollow"><img src="https://camo.githubusercontent.com/23769702d6ec4634238509960554e0b7f2dc347614e708cbd68b0715fb75affb/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" align="left" width="26" alt="Telegram" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;"></a>
 <a href="https://e.mail.ru/copyart@mail.ru" rel="nofollow">
 <a href="mailto:copyart.@mail.ru">
-<img class="portal-menu-logo__logo__img" src="https://img.imgsmail.ru/static.promo/logo/logo.svg" width="auto" height="28">
+<img class="portal-menu-logo__logo__img" src="https://autoglushitel39.ru/wp-content/uploads/2022/04/unnamed-768x768.jpg" width="auto" height="28">
 </a>
   
 <h2><h2>
