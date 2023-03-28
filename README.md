@@ -1,14 +1,9 @@
-<h1>𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈`𝐦 𝐋𝐞𝐧𝐚 👋</h1>
+<h1>Привет, меня зовут Лена👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=beginner+frontend+developer" alt="Typing SVG" /></a>
-
-<h2>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗿𝗲𝗮𝗸𝘀</h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Agurchkova&theme=dark)](https://git.io/streak-stats)
-
-<h2>𝗟𝗮𝗻𝗴𝘀<h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agurchkova&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=начинающий+фронтенд-разработчик" alt="Typing SVG" /></a>
+<p>В настоящий момент прохожу обучение на курсе "Веб-разработчик" в <a href="https://practicum.yandex.ru/">Яндекс.Практикуме</a></p>
+<p>Хочу стать экспертом во фронтенде и в ближайшие 3 года дорасти до уровня “middle”.</p>
+<p>Люблю учиться и осваивать новые технологии.</p>
 
 <h2>𝐌𝐲 𝐡𝐚𝐫𝐝 𝐬𝐤𝐢𝐥𝐥𝐬:</h2>
 <p>
@@ -21,6 +16,12 @@
 <img src="https://camo.githubusercontent.com/4bb8b8b828528d8f397ad128232babe3dd2423b44e734f235a3c81b7e00a60a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d46303530333226636f6c6f723d344534453445" alt="Git is a free and open source distributed version control system." data-canonical-src="https://img.shields.io/badge/Git-informational?style=flat&amp;logo=git&amp;logoColor=white&amp;labelColor=F05032&amp;color=4E4E4E" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/3696baba9e02670333c8b050de3460dafbc6fa8fa30f5920e1e67ea381ba998e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d31383137313726636f6c6f723d344534453445" alt="Github home page" data-canonical-src="https://img.shields.io/badge/GitHub-informational?style=flat&amp;logo=GitHub&amp;logoColor=white&amp;labelColor=181717&amp;color=4E4E4E" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/5df4d52da48880da0c87d3f4d7e50c9191308fe31b6c96e30bc45d7a2afc943f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d46323445314526636f6c6f723d344534453445" alt="Figma home page" data-canonical-src="https://img.shields.io/badge/Figma-informational?style=flat&amp;logo=figma&amp;logoColor=white&amp;labelColor=F24E1E&amp;color=4E4E4E" style="max-width: 100%;"></p>
+
+<h2>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗿𝗲𝗮𝗸𝘀</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Agurchkova&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agurchkova&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>✉️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀:</h2>
 <a href="https://t.me/Agurchkova" rel="nofollow"><img src="https://camo.githubusercontent.com/23769702d6ec4634238509960554e0b7f2dc347614e708cbd68b0715fb75affb/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" align="left" width="26" alt="Telegram" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;"></a>
