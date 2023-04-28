@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agurchkova&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>✉️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀:</h2>
-<a href="https://t.me/Agurchkova" rel="nofollow"><img src="https://camo.githubusercontent.com/23769702d6ec4634238509960554e0b7f2dc347614e708cbd68b0715fb75affb/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" align="left" width="26" alt="Telegram" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;"></a>
+<a href="https://t.me/AEV098" rel="nofollow"><img src="https://camo.githubusercontent.com/23769702d6ec4634238509960554e0b7f2dc347614e708cbd68b0715fb75affb/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" align="left" width="26" alt="Telegram" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;"></a>
 <a href="https://e.mail.ru/copyart@mail.ru" rel="nofollow">
 <a href="mailto:copyart.@mail.ru">
 <img class="portal-menu-logo__logo__img" src="https://autoglushitel39.ru/wp-content/uploads/2022/04/unnamed-768x768.jpg" width="auto" height="28">
